@@ -13,4 +13,20 @@ Follow these instructions to get a copy of the project up and running on your lo
 # Prerequisites
 Web browser (Google Chrome, Mozilla Firefox, Safari, etc.)
 # Installation
-Clone the repository to your local machine using Git:
+1. Clone the repository to your local machine using Git:
+https://github.com/DP1965/To-Do-List__CodeClause
+2. Navigate to the project directory:
+cd todo-list-project
+3. Open the index.html file in your preferred web browser.
+# Usage
+On the web application's interface, you'll find an input field labeled "Write Here"
+
+Type the description of the task you want to add into the input field.
+
+Press the Enter key to add the task to your list.
+
+Once you've completed a task, click the checkbox next to the task. The task description will turn red to indicate completion.
+
+If you want to remove a task from your list, click the cross button next to the task.
+
+To reset the application and start with a clean list, simply refresh the page.
